@@ -1,7 +1,6 @@
 <?php
 /*
-Question2Answer by Gideon Greenspan and contributors
-http://www.question2answer.org/
+BazaTheGeni | Question2Answer
 
 File: qa-config-example.php
 Description: After renaming, use this to set up database details and other stuff
