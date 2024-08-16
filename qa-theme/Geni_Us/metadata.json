@@ -1,0 +1,10 @@
+{
+	"name": "Geni_Us",
+	"description": "Geni_Us responsive theme with RTL support",
+	"version": "1.0",
+	"date": "2024-04-29",
+	"author": "Geni_Us Rwanda Group",
+	"author_uri": "http://www.geniusrwanda.org",
+	"license": "GPLv2",
+	"min_q2a": "1.7"
+}
