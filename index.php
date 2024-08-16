@@ -1,7 +1,7 @@
 <?php
 /*
-	Question2Answer by Gideon Greenspan and contributors
-	http://www.question2answer.org/
+	BazaTheGeni | Question2Answer by Geni_Us Rwanda Group and contributors
+	
 
 	File: index.php
 	Description: A stub that only sets up the Q2A root and includes qa-index.php
